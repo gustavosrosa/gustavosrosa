@@ -11,9 +11,18 @@ Primeiro, caso queira conhecer minhas redes sociais, elas estão disponíveis lo
 - Atualmente, realizo estágio na área de tecnologia, com foco em Java EE e desenvolvimento com Spring
 
   Minhas habilidades:
-  
-  		- Spring Framework  		- HTML
-  		- Spring Data JPA			- CSS
-  		- Spring Boot				- JavaScript
-  		- Spring Security			- Scrum
-  		- Java (7, 8+)				- BSAD
+
+  		<ul>
+  			<li>Spring Framework</li>
+  			<li>Spring Data JPA</li>
+  			<li>Spring Boot</li>
+  			<li>Spring Security</li>
+  			<li>Java (7, 8+)</li>
+  		</ul>
+  		<ul>
+  			<li>HTML</li>
+  			<li>CSS</li>
+  			<li>JavaScript</li>
+  			<li>Scrum</li>
+  			<li>BSAD</li>
+  		</ul>
