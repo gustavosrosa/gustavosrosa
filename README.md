@@ -9,8 +9,10 @@ Primeiro, caso queira conhecer minhas redes sociais, elas estão disponíveis lo
 # Sobre mim
 
 - Atualmente, realizo estágio na área de tecnologia, com foco em Java EE e desenvolvimento com Spring
+- Desenvolvedor com 5 meses de experiência
+- Buscando oportunidades de collabs e contribu~ição em comunidades open-source
 
-  Minhas habilidades:
+# Minhas habilidades:
 
   		<ul>
   			<li>Spring Framework</li>
