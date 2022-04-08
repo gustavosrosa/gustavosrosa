@@ -20,9 +20,9 @@ Primeiro, caso queira conhecer minhas redes sociais, elas estão disponíveis lo
 - Spring Boot
 - Spring Security
 - Java (7, 8+)
+- BSAD
 
 - HTML
-- CSS<
+- CSS
 - JavaScript
 - Scrum
-- BSAD
