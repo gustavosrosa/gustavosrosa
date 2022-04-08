@@ -12,19 +12,18 @@ Primeiro, caso queira conhecer minhas redes sociais, elas estão disponíveis lo
 - Desenvolvedor com 5 meses de experiência
 - Buscando oportunidades de collabs e contribu~ição em comunidades open-source
 
+
 # Minhas habilidades:
 
-  		<ul>
-  			<li>Spring Framework</li>
-  			<li>Spring Data JPA</li>
-  			<li>Spring Boot</li>
-  			<li>Spring Security</li>
-  			<li>Java (7, 8+)</li>
-  		</ul>
-  		<ul>
-  			<li>HTML</li>
-  			<li>CSS</li>
-  			<li>JavaScript</li>
-  			<li>Scrum</li>
-  			<li>BSAD</li>
-  		</ul>
+  		
+  			- Spring Framework
+  			- Spring Data JPA
+  			- Spring Boot
+  			- Spring Security
+  			- Java (7, 8+)
+
+  			- HTML
+  			- CSS<
+  			- JavaScript
+  			- Scrum<
+  			- BSAD
