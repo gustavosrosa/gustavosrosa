@@ -28,3 +28,6 @@ E-mail: g.dsantosrosa@gmail.com
 - CSS
 - JavaScript
 - Scrum
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavosrosa)](https://github.com/gustavosrosa/github-readme-stats)
+
