@@ -8,8 +8,8 @@ Primeiro, caso queira conhecer minhas redes sociais, elas estão disponíveis lo
 
 # Sobre mim
 
-- Atualmente, realizo estágio na área de tecnologia, na empresa SIS Consultoria, onde atuo com desenvolvimento em Java e Soring Boot
-- Desenvolvedor com 1 ano de experiência
+- Atualmente, sou trainee, na empresa SIS Innov & Tech, onde atuo com desenvolvimento em Java e Spring Boot
+- Desenvolvedor com 2 anos de experiência
 - Buscando oportunidades de collabs e contribuição em comunidades open-source (Caso tiver alguma oportunidade, entre em contato!)
 
 E-mail: g.dsantosrosa@gmail.com
@@ -23,11 +23,14 @@ E-mail: g.dsantosrosa@gmail.com
 - Spring Security
 - Java (7, 8+)
 - BSAD
+- Conhecimento de negócio: Bradesco Seguros
 
 - HTML
 - CSS
 - JavaScript
 - Scrum
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavosrosa)](https://github.com/gustavosrosa/github-readme-stats)
+- Angular 8+
+- Fortify
+- NodeJS
 
