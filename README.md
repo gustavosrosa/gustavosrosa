@@ -8,8 +8,8 @@ Primeiro, caso queira conhecer minhas redes sociais, elas estão disponíveis lo
 
 # Sobre mim
 
-- Atualmente, sou trainee, na empresa SIS Innov & Tech, onde atuo com desenvolvimento em Java e Spring Boot
-- Desenvolvedor com 2 anos de experiência
+- Atualmente, sou analista de sistemas Jr., na empresa SIS Innov & Tech.
+- Desenvolvedor Java/Angular com 2 anos de experiência.
 - Buscando oportunidades de collabs e contribuição em comunidades open-source (Caso tiver alguma oportunidade, entre em contato!)
 
 E-mail: g.dsantosrosa@gmail.com
@@ -33,4 +33,5 @@ E-mail: g.dsantosrosa@gmail.com
 - Angular 8+
 - Fortify
 - NodeJS
+- Microsserviços
 
