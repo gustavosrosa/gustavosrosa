@@ -8,6 +8,7 @@ Primeiro, caso queira conhecer minhas redes sociais, elas estão disponíveis lo
 
 # Stats
 [![Gustavo's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavosrosa)](https://github.com/gustavosrosa/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavosrosa)](https://github.com/gustavosrosa/github-readme-stats)
 
 # Sobre mim
 
