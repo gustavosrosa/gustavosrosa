@@ -12,11 +12,23 @@ Primeiro, caso queira conhecer minhas redes sociais, elas estão disponíveis lo
 
 # Sobre mim
 
-- Atualmente, sou analista de sistemas Jr., na empresa SIS Innov & Tech.
+- Atualmente, sou analista de sistemas Jr., na empresa GFT Technologies.
 - Desenvolvedor Java/Angular com 2 anos de experiência.
 - Buscando oportunidades de collabs e contribuição em comunidades open-source (Caso tiver alguma oportunidade, entre em contato!)
 
 E-mail: g.dsantosrosa@gmail.com
+
+# Resumo
+
+Desenvolvedor Fullstack com 3 anos de experiência, que sempre busca melhores formas de atuar, com boas práticas e padrões e diretrizes estabelecidos pelo projeto e equipe. Iniciou como desenvolvedor na área de back-end por meio da linguagem de programação Java, atuando inicialmente com projetos internos e posteriormente para seguradora, onde está até hoje. Seus pontos fortes são determinação, foco na solução e trabalho em equipe.
+
+Tecnologias: NodeJS, Java 7, 8, 9, Maven, Tomcat, HTML e CSS, ECMA5, TypeScript, Microsserviços, Angular, Angular JS, Fortify, Starteam, Spring Boot, Spring Data JPA, Bean Validation, DSN, CPY, FWK, Mockserver, VueJS, React, Axios, Express, JSON, XML, Mongoose
+
+SGDB: DB2, SQL Server, H2, MySQL, Oracle, MongoDB
+
+Metodologias: Agile, Scrum, Jira, Agile Boards, Kanban, Azure Devops
+
+Conhecimento de Negócio: Pagamentos, Agendamentos, Cartões, Terminal Financeiro, GACB, Gestão de Acesso, Autorizador
 
 # Skills
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)  	
