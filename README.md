@@ -28,7 +28,7 @@ SGDB: DB2, SQL Server, H2, MySQL, Oracle, MongoDB
 
 Metodologias: Agile, Scrum, Jira, Agile Boards, Kanban, Azure Devops
 
-Conhecimento de Negócio: Pagamentos, Agendamentos, Cartões, Terminal Financeiro, GACB, Gestão de Acesso, Autorizador
+Conhecimento de Negócio: Pagamentos, Agendamentos, Cartões, Terminal Financeiro, Gestão de Acesso, Autorizador
 
 # Skills
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)  	
