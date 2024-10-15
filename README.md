@@ -6,17 +6,19 @@ Primeiro, caso queira conhecer minhas redes sociais, elas estão disponíveis lo
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavodsrosa/)](https://www.linkedin.com/in/gustavodsrosa/) 
 [![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCpj28Uck_Wr6b3ePs8tjnCg)](https://www.youtube.com/channel/UCpj28Uck_Wr6b3ePs8tjnCg)
 
-# Stats
-[![Gustavo's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavosrosa)](https://github.com/gustavosrosa/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavosrosa)](https://github.com/gustavosrosa/github-readme-stats)
-
 # Sobre mim
 
-- Atualmente, sou analista de sistemas Jr., na empresa GFT Technologies.
-- Desenvolvedor Java/Angular com 2 anos de experiência.
+- Analista de sistemas Jr., na empresa GFT Technologies.
+- Estudo Análise e Desenvolvimento de Sistemas
+- Desenvolvedor com 3 anos de experiência.
+- Moro em São Paulo/SP - Brasil.
+- Contato: g.dsantosrosa@gmail.com
 - Buscando oportunidades de collabs e contribuição em comunidades open-source (Caso tiver alguma oportunidade, entre em contato!)
 
-E-mail: g.dsantosrosa@gmail.com
+# Experiências
+
+- SIS Innov & Tech: Jul/2021 até Jun/2024
+- GFT Technologies: Jul/2024 até o momento
 
 # Resumo
 
@@ -31,10 +33,12 @@ Metodologias: Agile, Scrum, Jira, Agile Boards, Kanban, Azure Devops
 Conhecimento de Negócio: Pagamentos, Agendamentos, Cartões, Terminal Financeiro, Gestão de Acesso, Autorizador
 
 # Skills
-![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)  	
-![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
-![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TS](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
+                              
