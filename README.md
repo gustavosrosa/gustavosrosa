@@ -33,7 +33,7 @@ Metodologias: Agile, Scrum, Jira, Agile Boards, Kanban, Azure Devops
 Conhecimento de Negócio: Pagamentos, Agendamentos, Cartões, Terminal Financeiro, Gestão de Acesso, Autorizador
 
 # Skills
-<img style="width: 20px; height: 20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
+<img style="width: 50px; height: 50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
