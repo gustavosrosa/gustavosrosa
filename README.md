@@ -8,8 +8,8 @@ Primeiro, caso queira conhecer minhas redes sociais, elas estão disponíveis lo
 
 # Sobre mim
 
-- Analista de sistemas Jr., na empresa GFT Technologies.
-- Estudo Análise e Desenvolvimento de Sistemas
+- Analista de sistemas Jr.
+- Estudo Engenharia da Computação na Faculdade Impacta de Tecnologia.
 - Desenvolvedor com 3 anos de experiência.
 - Moro em São Paulo/SP - Brasil.
 - Contato: g.dsantosrosa@gmail.com
