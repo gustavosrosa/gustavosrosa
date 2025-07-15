@@ -18,7 +18,7 @@ Primeiro, caso queira conhecer minhas redes sociais, elas estão disponíveis lo
 # Experiências
 
 - SIS Innov & Tech: Jul/2021 até Jun/2024
-- GFT Technologies: Jul/2024 até o momento
+- GFT Technologies: Jul/2024 até Abr/2025
 
 # Resumo
 
