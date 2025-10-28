@@ -1,46 +1,61 @@
-### Olá, eu sou o Gustavo Rosa! Seja muito bem-vindo(a)!
+<br clear="both">
 
-Primeiro, caso queira conhecer minhas redes sociais, elas estão disponíveis logo abaixo:
+<h2 align="center">Hello world 🌍, my name is Gustavo Rosa!</h2>
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/gustavosrosa)](https://github.com/gustavosrosa) 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavodsrosa/)](https://www.linkedin.com/in/gustavodsrosa/) 
-[![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCpj28Uck_Wr6b3ePs8tjnCg)](https://www.youtube.com/channel/UCpj28Uck_Wr6b3ePs8tjnCg)
+###
 
-# Sobre mim
+<h2 align="left">My stats</h2>
 
-- Analista de sistemas Jr.
-- Estudo Engenharia da Computação na Faculdade Impacta de Tecnologia.
-- Desenvolvedor com 3 anos de experiência.
-- Moro em São Paulo/SP - Brasil.
-- Contato: g.dsantosrosa@gmail.com
-- Buscando oportunidades de collabs e contribuição em comunidades open-source (Caso tiver alguma oportunidade, entre em contato!)
+###
 
-# Experiências
-
-- SIS Innov & Tech: Jul/2021 até Jun/2024
-- GFT Technologies: Jul/2024 até Abr/2025
-
-# Resumo
-
-Desenvolvedor Fullstack com 3 anos de experiência, que sempre busca melhores formas de atuar, com boas práticas e padrões e diretrizes estabelecidos pelo projeto e equipe. Iniciou como desenvolvedor na área de back-end por meio da linguagem de programação Java, atuando inicialmente com projetos internos e posteriormente para seguradora, onde está até hoje. Seus pontos fortes são determinação, foco na solução e trabalho em equipe.
-
-Tecnologias: NodeJS, Java 7, 8, 9, Maven, Tomcat, HTML e CSS, ECMA5, TypeScript, Microsserviços, Angular, Angular JS, Fortify, Starteam, Spring Boot, Spring Data JPA, Bean Validation, DSN, CPY, FWK, Mockserver, VueJS, React, Axios, Express, JSON, XML, Mongoose
-
-SGDB: DB2, SQL Server, H2, MySQL, Oracle, MongoDB
-
-Metodologias: Agile, Scrum, Jira, Agile Boards, Kanban, Azure Devops
-
-Conhecimento de Negócio: Pagamentos, Agendamentos, Cartões, Terminal Financeiro, Gestão de Acesso, Autorizador
-
-# Skills
-<div style="display: flex; flex-direction: row">
-  <img style="width: 60px; height: 60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
-  <img style="width: 60px; height: 60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />
-  <img style="width: 60px; height: 60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-  <img style="width: 60px; height: 60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-  <img style="width: 60px; height: 60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
-  <img style="width: 60px; height: 60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original-wordmark.svg" />
-  <img style="width: 60px; height: 60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
-  <img style="width: 60px; height: 60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gustavosrosa&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gustavosrosa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
-                              
+
+###
+
+<h2 align="left">Contact me!</h2>
+
+###
+
+<div align="left">
+  <a href="https://www.youtube.com/channel/UCpj28Uck_Wr6b3ePs8tjnCg" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="47" height="35" alt="youtube logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/gustavodsrosa/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:g.dsantosrosa@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://stackoverflow.com/users/20419557/gustavorosa" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="47" height="35" alt="stackoverflow logo"  />
+  </a>
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/gustavosrosa/gustavosrosa/output/snake.svg" alt="Snake animation" />
+
+###
+
+<h2 align="left">About me!</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
+</div>
+
+###
