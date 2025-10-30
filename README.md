@@ -1,36 +1,34 @@
-### Olá, eu sou o Gustavo Rosa! Seja muito bem-vindo(a)!
+### Hello, I'm Gustavo Rosa!
 
-Primeiro, caso queira conhecer minhas redes sociais, elas estão disponíveis logo abaixo:
+My social medias:
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/gustavosrosa)](https://github.com/gustavosrosa) 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavodsrosa/)](https://www.linkedin.com/in/gustavodsrosa/) 
 [![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCpj28Uck_Wr6b3ePs8tjnCg)](https://www.youtube.com/channel/UCpj28Uck_Wr6b3ePs8tjnCg)
 
-# Sobre mim
+# About me
 
-- Analista de sistemas Jr.
-- Estudo Engenharia da Computação na Faculdade Impacta de Tecnologia.
-- Desenvolvedor com 3 anos de experiência.
-- Moro em São Paulo/SP - Brasil.
-- Contato: g.dsantosrosa@gmail.com
-- Buscando oportunidades de collabs e contribuição em comunidades open-source (Caso tiver alguma oportunidade, entre em contato!)
+- Junior Software Developer 
+- Studying Computer Engineering at Faculdade Impacta Tecnologia.
+- 3 years of experience.
+- From São Paulo/SP, Brasil.
+- E-mail: g.dsantosrosa@gmail.com
 
-# Experiências
+# Experiences
 
-- SIS Innov & Tech: Jul/2021 até Jun/2024
-- GFT Technologies: Jul/2024 até Abr/2025
+- Produtos Alimentícios Crispetes: 02/2017 to 12/2018
+- SIS Innov & Tech: 07/2021 to 06/2024
+- GFT Technologies: 07/2024 to 04/2025
 
-# Resumo
+# Skills
 
-Desenvolvedor Fullstack com 3 anos de experiência, que sempre busca melhores formas de atuar, com boas práticas e padrões e diretrizes estabelecidos pelo projeto e equipe. Iniciou como desenvolvedor na área de back-end por meio da linguagem de programação Java, atuando inicialmente com projetos internos e posteriormente para seguradora, onde está até hoje. Seus pontos fortes são determinação, foco na solução e trabalho em equipe.
+- Technologies: NodeJS, Java 7, 8, 9, Maven, Tomcat, HTML e CSS, ECMA5, TypeScript, Microsserviços, Angular, Angular JS, Fortify, Starteam, Spring Boot, Spring Data JPA, Bean Validation, DSN, CPY, FWK, Mockserver, VueJS, React, Axios, Express, JSON, XML, Mongoose, Cypress, Selenium, Prisma, Pgadmin
 
-Tecnologias: NodeJS, Java 7, 8, 9, Maven, Tomcat, HTML e CSS, ECMA5, TypeScript, Microsserviços, Angular, Angular JS, Fortify, Starteam, Spring Boot, Spring Data JPA, Bean Validation, DSN, CPY, FWK, Mockserver, VueJS, React, Axios, Express, JSON, XML, Mongoose
+- SGDB: DB2, SQL Server, H2, MySQL, Oracle, MongoDB, Postgres
 
-SGDB: DB2, SQL Server, H2, MySQL, Oracle, MongoDB
+- Methodologies: Agile, Scrum, Jira, Agile Boards, Kanban, Azure Devops, Lean, XP
 
-Metodologias: Agile, Scrum, Jira, Agile Boards, Kanban, Azure Devops
-
-Conhecimento de Negócio: Pagamentos, Agendamentos, Cartões, Terminal Financeiro, Gestão de Acesso, Autorizador
+- Business Knowledge: Payments, Scheduling, Cards, Financial Terminal, Access Management, Authorizate
 
 # Skills
 <div style="display: flex; flex-direction: row">
