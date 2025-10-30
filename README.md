@@ -1,12 +1,8 @@
 # Hello, I'm Gustavo Rosa!
 
-## Social Medias
-
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/gustavosrosa)](https://github.com/gustavosrosa) 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavodsrosa/)](https://www.linkedin.com/in/gustavodsrosa/) 
 [![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCpj28Uck_Wr6b3ePs8tjnCg)](https://www.youtube.com/channel/UCpj28Uck_Wr6b3ePs8tjnCg)
-
-## About me
 
 - Junior Software Developer 
 - Studying Computer Engineering at Faculdade Impacta Tecnologia.
