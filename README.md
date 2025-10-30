@@ -1,6 +1,6 @@
 ### Hello, I'm Gustavo Rosa!
 
-My social medias:
+# Social Medias
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/gustavosrosa)](https://github.com/gustavosrosa) 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavodsrosa/)](https://www.linkedin.com/in/gustavodsrosa/) 
