@@ -3,6 +3,7 @@
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/gustavosrosa)](https://github.com/gustavosrosa) 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavodsrosa/)](https://www.linkedin.com/in/gustavodsrosa/) 
 [![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCpj28Uck_Wr6b3ePs8tjnCg)](https://www.youtube.com/channel/UCpj28Uck_Wr6b3ePs8tjnCg)
+[![Youtube Badge](https://img.shields.io/badge/Stack_Overflow-F58025?style=flat&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/20419557/gustavorosa)](https://stackoverflow.com/users/20419557/gustavorosa)
 
 - Junior Software Developer 
 - Studying Computer Engineering at Faculdade Impacta Tecnologia.
