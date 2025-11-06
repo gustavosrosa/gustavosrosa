@@ -6,7 +6,7 @@
 
 - Junior Software Developer 
 - Studying Computer Engineering at Faculdade Impacta Tecnologia.
-- 3 years of experience.
+- 3+ years of experience.
 - From São Paulo/SP, Brasil.
 - E-mail: g.dsantosrosa@gmail.com
 
