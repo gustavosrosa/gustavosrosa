@@ -15,9 +15,9 @@
 
 ## Experiences
 
-- Produtos Alimentícios Crispetes: 02/2017 to 12/2018
-- SIS Innov & Tech: 07/2021 to 06/2024
-- GFT Technologies: 07/2024 to 04/2025
+- Produtos Alimentícios Crispetes: Feb/2017 to Dec/2018
+- SIS Innov & Tech: Jul/2021 to Jun/2024
+- GFT Technologies: Jul/2024 to Apr/2025
 
 ## Skills
 
