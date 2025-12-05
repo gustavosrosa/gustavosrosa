@@ -11,8 +11,6 @@
 - From São Paulo/SP, Brasil.
 - E-mail: g.dsantosrosa@gmail.com
 
-![Gustavo Rosa's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavosrosa&hide=contribs,prs)
-
 ## Experiences
 
 - Produtos Alimentícios Crispetes: Feb/2017 to Dec/2018
