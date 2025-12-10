@@ -5,9 +5,9 @@
 [![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCpj28Uck_Wr6b3ePs8tjnCg)](https://www.youtube.com/channel/UCpj28Uck_Wr6b3ePs8tjnCg)
 [![Youtube Badge](https://img.shields.io/badge/Stack_Overflow-F58025?style=flat&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/20419557/gustavorosa)](https://stackoverflow.com/users/20419557/gustavorosa)
 
-- Junior Software Developer 
+- Software Developer 
 - Studying Computer Engineering at Faculdade Impacta Tecnologia.
-- 3+ years of experience.
+- 3.5+ years of experience.
 - From São Paulo/SP, Brasil.
 - E-mail: g.dsantosrosa@gmail.com
 
@@ -19,8 +19,8 @@
 
 ## Skills
 
-- Technologies: NodeJS, Java 7, 8, 9, Maven, Tomcat, HTML e CSS, ECMA5, TypeScript, Microsserviços, Angular, Angular JS, Fortify, Starteam, Spring Boot, Spring Data JPA, Bean Validation, DSN, CPY, FWK, Mockserver, VueJS, React, Axios, Express, JSON, XML, Mongoose, Cypress, Selenium, Prisma, Pgadmin
-
+- Technologies: NodeJS, Java, Maven, Tomcat, HTML e CSS, ECMA5, TypeScript, Microsserviços, Angular, Angular JS, Fortify, Starteam, Spring Boot, Spring Data JPA, Bean Validation, DSN, CPY, FWK, Mockserver, VueJS, React, Axios, Express, JSON, XML, Mongoose, Cypress, Selenium, Prisma, Pgadmin, Kafka
+  
 - SGDB: DB2, SQL Server, H2, MySQL, Oracle, MongoDB, Postgres
 
 - Methodologies: Agile, Scrum, Jira, Agile Boards, Kanban, Azure Devops, Lean, XP
