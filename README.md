@@ -5,10 +5,10 @@
 [![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCpj28Uck_Wr6b3ePs8tjnCg)](https://www.youtube.com/channel/UCpj28Uck_Wr6b3ePs8tjnCg)
 [![Youtube Badge](https://img.shields.io/badge/Stack_Overflow-F58025?style=flat&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/20419557/gustavorosa)](https://stackoverflow.com/users/20419557/gustavorosa)
 
-- Software Developer 
-- Studying Computer Engineering at Faculdade Impacta Tecnologia.
-- 3.5+ years of experience.
-- From São Paulo/SP, Brasil.
+- Software Developer
+- Bachelor of Computer Engineering at Faculdade Impacta Tecnologia
+- 3.5+ years of experience
+- From São Paulo/SP, Brasil
 - E-mail: g.dsantosrosa@gmail.com
 
 ## Experiences
